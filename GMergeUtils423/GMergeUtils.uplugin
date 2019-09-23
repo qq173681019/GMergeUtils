@@ -1,0 +1,45 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"EngineVersion" : "4.23.0", 
+	"FriendlyName": "GMergeUtils",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "Guqing",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL" : "com.epicgames.launcher://ue/marketplace/content/361a677f0062421997a3978c3e11f73e", 
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"Installed": false,
+  "Modules": [
+    {
+      "Name": "GMergeUtils",
+      "Type": "Editor",
+      "LoadingPhase": "Default",
+	"WhitelistPlatforms" :
+	[
+		"Win64",
+		"Win32",
+	]
+    },
+{
+      "Name": "MergeRuntime",
+      "Type": "Runtime",
+      "LoadingPhase": "PreDefault",
+	"WhitelistPlatforms" :
+	[
+		"Win64",
+		"Win32",
+	]
+    }
+  ],
+  "Plugins": [
+    {
+      "Name": "EditorScriptingUtilities",
+      "Enabled": true
+    }
+  ]
+}
