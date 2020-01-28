@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.MergeRuntime.cpp.obj": [
+			"MergeRuntime.cpp.obj",
+			"MergeRuntimeBPLibrary.cpp.obj"
+		],
+		"Module.MergeRuntime.gen.cpp.obj": [
+			"MergeRuntime.init.gen.cpp.obj",
+			"MergeRuntimeBPLibrary.gen.cpp.obj"
+		]
+	}
+}

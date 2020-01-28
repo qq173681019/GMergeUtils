@@ -1,0 +1,8 @@
+{
+	"BuildId": "10570792",
+	"Modules": 
+	{
+		"GMergeUtils": "UE4Editor-GMergeUtils.dll",
+		"MergeRuntime": "UE4Editor-MergeRuntime.dll"
+	}
+}

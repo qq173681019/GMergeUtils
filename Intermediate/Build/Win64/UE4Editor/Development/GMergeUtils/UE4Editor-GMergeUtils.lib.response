@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-GMergeUtils.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UE4_Projects\Plugins\T424\Intermediate\Build\Win64\T424Editor\Development\UnrealEd\SharedPCH.UnrealEd.h.obj"
+"D:\UE4_Projects\Plugins\T424\Plugins\GMergeUtils\Intermediate\Build\Win64\UE4Editor\Development\GMergeUtils\Module.GMergeUtils.cpp.obj"
+"D:\UE4_Projects\Plugins\T424\Plugins\GMergeUtils\Intermediate\Build\Win64\UE4Editor\Development\GMergeUtils\Module.GMergeUtils.gen.cpp.obj"
+"D:\UE4_Projects\Plugins\T424\Plugins\GMergeUtils\Intermediate\Build\Win64\UE4Editor\Development\GMergeUtils\Default.rc2.res"
+/OUT:"D:\UE4_Projects\Plugins\T424\Plugins\GMergeUtils\Intermediate\Build\Win64\UE4Editor\Development\GMergeUtils\UE4Editor-GMergeUtils.lib"
+/INCLUDE:IMPLEMENT_MODULE_GMergeUtils

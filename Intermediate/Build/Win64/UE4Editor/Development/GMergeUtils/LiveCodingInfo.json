@@ -1,0 +1,16 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.GMergeUtils.cpp.obj": [
+			"MergeCore.cpp.obj",
+			"GMergeUtils.cpp.obj",
+			"GMergeUtilsCommands.cpp.obj",
+			"GMergeUtilsStyle.cpp.obj",
+			"MergeLibrary.cpp.obj"
+		],
+		"Module.GMergeUtils.gen.cpp.obj": [
+			"GMergeUtils.init.gen.cpp.obj",
+			"MergeLibrary.gen.cpp.obj"
+		]
+	}
+}
